@@ -38,8 +38,8 @@ void FindMinMax(double[] array, out double Min, out double Max, out double DiffM
         {
             Max = array[i];
         }
-        
-    }  
+
+    }
     DiffMinMax = Max - Min;
 }
 
